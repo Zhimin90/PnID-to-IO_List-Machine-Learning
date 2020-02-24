@@ -28,7 +28,7 @@ class popupWindow(object):
         
     def __init__(self, master, locations):
         top=self.top=Toplevel(master)
-        top.minsize(width=800, height=600)
+        top.minsize(width=1000, height=800)
         self.canvas = Canvas(top, width=120, height=80, bg='black')
         self.canvas.pack(expand=YES, fill=BOTH)
         self.gif1 = PhotoImage(file='BP Baltimore Satellite.PNG')
@@ -75,8 +75,8 @@ class TestApp(Frame):
                 print("Couldn't find picke. Will load test.csv")
                 pt.importCSV('test.csv')
                 pt.model.addColumn(self.locColName, 'object')
-            
-            pt.bind('<Button-1>', self.leftClicked)
+            pt.model.moveColumn(pt.model.df.columns.get_loc(self.locColName),1)
+            pt.bind('<Control-Button-1>', self.leftClicked)
             pt.show()
             return
         
