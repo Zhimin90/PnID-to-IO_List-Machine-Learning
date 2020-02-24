@@ -6,18 +6,19 @@ Created on Sat Feb 22 19:33:18 2020
 """
 from tkinter import *
 from pandastable import Table, TableModel
-import os
+import numpy as np
+#import os
 #assuming parent is the frame in which you want to place the table
 
-root = Tk()
-frame = Frame(root)
-frame.pack()
-#root.mainloop()
-
-pt = Table(frame)
-pt.show()
-pt.importCSV('test.csv')
-pt.mainloop()
+#root = Tk()
+#frame = Frame(root)
+#frame.pack()
+##root.mainloop()
+#
+#pt = Table(frame)
+#pt.show()
+#pt.importCSV('test.csv')
+#pt.mainloop()
 
 class popupWindow(object):
     
@@ -32,6 +33,7 @@ class popupWindow(object):
         self.canvas.pack(expand=YES, fill=BOTH)
         self.gif1 = PhotoImage(file='BP Baltimore Satellite.PNG')
         self.canvas.create_image(50, 10, image=self.gif1, anchor=NW)
+
         for location in locations:
             print(location)
             x,y = tuple(location.split(","))
@@ -57,7 +59,7 @@ class TestApp(Frame):
             self.parent = parent
             Frame.__init__(self)
             self.main = self.master
-            self.main.geometry('1280x1024+200+100')
+            self.main.geometry('1680x1024+200+100')
             self.main.title('Table app')
             f = Frame(self.main)
             f.pack(fill=BOTH,expand=1)
@@ -65,10 +67,16 @@ class TestApp(Frame):
             #self.df = TableModel.getSampleData()
             self.table = pt = Table(f, dataframe=self.df,
                                     showtoolbar=True, showstatusbar=True)
-            pt.importCSV('test.csv')
+            self.locColName = 'RLocation'
+            try:
+                print("loading pickle")
+                pt.model.load("temp_model.pickle")
+            except IOError:
+                print("Couldn't find picke. Will load test.csv")
+                pt.importCSV('test.csv')
+                pt.model.addColumn(self.locColName, 'object')
+            
             pt.bind('<Button-1>', self.leftClicked)
-            pt.model.addColumn('RLocation', 'object')
-            self.locations = []
             pt.show()
             return
         
@@ -77,15 +85,12 @@ class TestApp(Frame):
             col = self.table.get_col_clicked(event)
             print(str(row)+ ", "+str(col))
             self.popUp()
-            #print(self.w.location)
-            self.locations.append(self.w.location)
             self.table.model.setValueAt(self.w.location, row, col, df=self.df)
             self.table.redrawVisible()
-            print(os.getcwd())
             self.table.model.save("temp_model.pickle")
             
         def popUp(self):
-            self.w=popupWindow(self.master, self.locations)
+            self.w=popupWindow(self.master,self.getColumnAsArr(self.table.model.df))
             #self.b["state"] = "disabled" 
             self.master.wait_window(self.w.top)
             #self.b["state"] = "normal"
@@ -95,6 +100,12 @@ class TestApp(Frame):
         
         def tagLocation(self):
             self.table.handleCellEntry(self, row, col)
+        
+        def getColumnAsArr(self, df):
+            df = df[self.locColName].dropna()
+            x = np.array(df,dtype="object")
+            print("x: " + str(x))
+            return x
         
         
 
