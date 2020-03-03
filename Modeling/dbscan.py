@@ -77,8 +77,12 @@ def MyDBSCAN(D, eps, MinPts, MaxPts):
         # Otherwise, if there are at least MinPts nearby, use this point as the 
         # seed for a new cluster.    
         else: 
-            C += 1
-            clusterDict[C] = 1
+            #if C in clusterDict.keys():
+            print(clusterDict)
+            newCluster = not (C in clusterDict.keys())
+            if ((newCluster) or (clusterDict[C] >  .8 * MaxPts)):
+                C += 1
+                clusterDict[C] = 1
             #growCluster returns unprocessed NeighborPts back for new cluster assignment
             append_list = growCluster(clusterDict, D, labels, P, NeighborPts, C, eps, MinPts, MaxPts)
             setNeighborPts = set(NeighborPts)
