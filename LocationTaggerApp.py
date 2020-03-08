@@ -77,6 +77,7 @@ class TestApp(Frame):
                 pt.model.addColumn(self.locColName, 'object')
             pt.model.moveColumn(pt.model.df.columns.get_loc(self.locColName),1)
             pt.bind('<Control-Button-1>', self.leftClicked)
+            pt.bind('<Control-l>', self.learnModel)
             pt.show()
             return
         
@@ -107,7 +108,16 @@ class TestApp(Frame):
             print("x: " + str(x))
             return x
         
-        
+        def learnModel(self, event): 
+            print("learning Model")
+            self.table.model.save("temp_model.pickle")
+            import os 
+            os.system('python LearnActionScript.py')
+            print("done")
+            self.table.model.load("learnedmodel.pickle")
+            self.table.model.save("temp_model.pickle")
+            self.table.model.moveColumn(self.table.model.df.columns.get_loc("ASIGateway_label"),1)
+            self.table.redrawVisible()
 
 app = TestApp()
 #launch the app
