@@ -1,0 +1,353 @@
+DWG Number,Tag,Area,Type,Loop Number,Location,Description,Manufacturer,Model Number,Comment,Class Name,PnPID,Area No,Unit No,Supplied By,Status,Sequence Number,Suffix,Instrument Spec,Spec Issued,PO Issued,Signal Type 1,Signal Type 2,Signal Type 3,Unit_Label,Gateway_Label
+PID-143,20-ZSC-7753.,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,831,20,77,With assembly,New,53,.,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-XY-4101C,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,852,20,41,With assembly,,1,C,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-ZSC-4101A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,859,20,41,With assembly,,1,A,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-ZIS-4102K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,899,20,41,With assembly,,2,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-XY-4101E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,906,20,41,With assembly,,1,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-XY-4102E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,918,20,41,With assembly,,2,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-XY-4101B,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,922,20,41,With assembly,,1,B,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-ZSC/O-4102E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,925,20,41,,,2,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-143,20-ZSC-4101C,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,938,20,41,With assembly,,1,C,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-ZSC/O-4102F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,965,20,41,,,2,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-143,20-ZSC-4101D,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,984,20,41,With assembly,,1,D,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-ZIS-4102J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,987,20,41,With assembly,,2,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-XY-4102F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1027,20,41,With assembly,,2,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-XY-2101F?,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1033,20,41,With assembly,,1,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-XY-4102P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,1077,20,41,With assembly,,2,P,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-XY-4101A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1090,20,41,With assembly,,1,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-ZSC-4102G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1132,20,41,With assembly,,2,G,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-ZSC/O-4101E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,1137,20,41,,,1,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-143,20-ZSC/O-4101F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,1169,20,41,,,1,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-143,20-XY-7753.,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1172,20,77,With assembly,New,53,.,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-ZSO-4102H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,1191,20,41,With assembly,,2,H,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-XY-4102A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1195,20,41,With assembly,,2,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-ZIS-4101J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,1207,20,41,With assembly,,1,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-ZIS-4101K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,1215,20,41,With assembly,,1,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-ZSC-4101B,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1266,20,41,With assembly,,1,B,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-143,20-XY-4101D,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1291,20,41,With assembly,,1,D,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-143,20-ZSC-4102A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1310,20,41,With assembly,,2,A,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-101,20-XY-0101P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,1351,20,1,With assembly,,1,P,NA,NA,NA,DOASI,NONE,NONE,1,3
+PID-101,20-ZIS-0101J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,1378,20,1,With assembly,,1,J,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-ZIS-0101K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,1394,20,1,With assembly,,1,K,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-ZSC-0101D,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1422,20,1,With assembly,,1,D,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-ZSC-0101M,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1467,20,1,With assembly,,1,M,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-XY-0101B,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1493,20,1,With assembly,,1,B,NA,NA,NA,DOASI,NONE,NONE,1,3
+PID-101,20-ZSC-0101B,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1513,20,1,With assembly,,1,B,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-ZSC-0101C,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1543,20,1,With assembly,,1,C,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-ZSC-0101A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1545,20,1,With assembly,,1,A,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-XY-0101D,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1599,20,1,With assembly,,1,D,NA,NA,NA,DOASI,NONE,NONE,1,3
+PID-101,20-XY-0101M,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1608,20,1,With assembly,,1,M,NA,NA,NA,DOASI,NONE,NONE,1,3
+PID-101,20-XY-0101A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1617,20,1,With assembly,,1,A,NA,NA,NA,DOASI,NONE,NONE,1,3
+PID-101,20-XY-0101C,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1634,20,1,With assembly,,1,C,NA,NA,NA,DOASI,NONE,NONE,1,3
+PID-101,20-ZSC-0101G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1646,20,1,With assembly,,1,G,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-ZSC/O-0101E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,1652,20,1,,,1,E,NA,NA,NA,DIASI,DIASI,NONE,1,3
+PID-101,20-ZSO-0101H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,1664,20,1,With assembly,,1,H,NA,NA,NA,DIASI,NONE,NONE,1,3
+PID-101,20-XY-0101E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1682,20,1,With assembly,,1,E,NA,NA,NA,DOASI,NONE,NONE,1,3
+PID-102,20-ZSO-0201H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,1696,20,2,With assembly,,1,H,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-ZSC-0201G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1742,20,2,With assembly,,1,G,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-XY-0201E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1753,20,2,With assembly,,1,E,NA,NA,NA,DOASI,NONE,NONE,2,3
+PID-102,20-ZIS-0201J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,1772,20,2,With assembly,,1,J,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-XY-0201D,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1780,20,2,With assembly,,1,D,NA,NA,NA,DOASI,NONE,NONE,2,3
+PID-102,20-XY-0201C,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1788,20,2,With assembly,,1,C,NA,NA,NA,DOASI,NONE,NONE,2,3
+PID-102,20-ZIS-0201K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,1790,20,2,With assembly,,1,K,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-XY-0201B,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1816,20,2,With assembly,,1,B,NA,NA,NA,DOASI,NONE,NONE,2,3
+PID-102,20-ZSC-0201C,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1821,20,2,With assembly,,1,C,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-ZSC-0201M,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1831,20,2,With assembly,,1,M,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-XY-0201M,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1852,20,2,With assembly,,1,M,NA,NA,NA,DOASI,NONE,NONE,2,3
+PID-102,20-XY-0201A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,1874,20,2,With assembly,,1,A,NA,NA,NA,DOASI,NONE,NONE,2,3
+PID-102,20-ZSC-0201D,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1888,20,2,With assembly,,1,D,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-ZSC-0201A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,1948,20,2,With assembly,,1,A,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-102,20-XY-0201P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,1973,20,2,With assembly,,1,P,NA,NA,NA,DOASI,NONE,NONE,2,3
+PID-102,20-ZSC/O-0201E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,1985,20,2,,,1,E,NA,NA,NA,DIASI,DIASI,NONE,2,3
+PID-102,20-ZSC-0201B,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2013,20,2,With assembly,,1,B,NA,NA,NA,DIASI,NONE,NONE,2,3
+PID-103,20-ZSC-0301A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2049,20,3,With assembly,,1,A,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-ZIS-0301K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,2069,20,3,With assembly,,1,K,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-ZIS-0301J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,2086,20,3,With assembly,,1,J,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-XY-0301P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,2095,20,3,With assembly,,1,P,NA,NA,NA,DOASI,NONE,NONE,3,3
+PID-103,20-XY-0301E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2120,20,3,With assembly,,1,E,NA,NA,NA,DOASI,NONE,NONE,3,3
+PID-103,20-ZSC-0301D,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2128,20,3,With assembly,,1,D,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-ZSC/O-0301E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,2157,20,3,,,1,E,NA,NA,NA,DIASI,DIASI,NONE,3,3
+PID-103,20-XY-0301D,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2179,20,3,With assembly,,1,D,NA,NA,NA,DOASI,NONE,NONE,3,3
+PID-103,20-ZSC-0301M,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2193,20,3,With assembly,,1,M,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-ZSO-0301H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,2217,20,3,With assembly,,1,H,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-XY-0301B,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2242,20,3,With assembly,,1,B,NA,NA,NA,DOASI,NONE,NONE,3,3
+PID-103,20-XY-0301C,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2246,20,3,With assembly,,1,C,NA,NA,NA,DOASI,NONE,NONE,3,3
+PID-103,20-ZSC-0301B,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2284,20,3,With assembly,,1,B,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-XY-0301A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2290,20,3,With assembly,,1,A,NA,NA,NA,DOASI,NONE,NONE,3,3
+PID-103,20-ZSC-0301C,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2298,20,3,With assembly,,1,C,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-103,20-XY-0301M,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2337,20,3,With assembly,,1,M,NA,NA,NA,DOASI,NONE,NONE,3,3
+PID-103,20-ZSC-0301G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2373,20,3,With assembly,,1,G,NA,NA,NA,DIASI,NONE,NONE,3,3
+PID-111,?-X1FV-???,,X1FV,,,Undefined Instrument,,,,FMC Instrument Bubble,2415,,,With assembly,,,,NA,NA,NA,,NONE,NONE,4,2
+PID-111,20-X1FV-1103A,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2418,20,11,FMC B&T,,3,A,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,?-X1FV-???,,X1FV,,,Undefined Instrument,,,,FMC Instrument Bubble,2451,,,With assembly,,,,NA,NA,NA,,NONE,NONE,4,2
+PID-111,?-X1FV-???,,X1FV,,,Undefined Instrument,,,,FMC Instrument Bubble,2457,,,With assembly,,,,NA,NA,NA,,NONE,NONE,4,2
+PID-111,?-X1FV-???,,X1FV,,,Undefined Instrument,,,,FMC Instrument Bubble,2498,,,With assembly,,,,NA,NA,NA,,NONE,NONE,4,2
+PID-111,20-X1FV-1102C,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2518,20,11,FMC B&T,,2,C,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-XPL-1102?,,XPL,,,Xpress Mfld Pig Launcher,,,,FMC Instrument Bubble,2528,20,11,With assembly,,2,,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-XPL-1100C,,XPL,,,Xpress Mfld Pig Launcher,,,,FMC Instrument Bubble,2558,20,11,With assembly,,0,C,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-X1FV-1101A,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2625,20,11,FMC B&T,,1,A,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,?-X1FV-???,,X1FV,,,Undefined Instrument,,,,FMC Instrument Bubble,2627,,,With assembly,,,,NA,NA,NA,,NONE,NONE,4,2
+PID-111,20-X1FV-1102B,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2629,20,11,FMC B&T,,2,B,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-XPL-1101?,,XPL,,,Xpress Mfld Pig Launcher,,,,FMC Instrument Bubble,2648,20,11,With assembly,,1,,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,?-X1FV-???,,X1FV,,,Undefined Instrument,,,,FMC Instrument Bubble,2663,,,With assembly,,,,NA,NA,NA,,NONE,NONE,4,2
+PID-111,20-X1FV-1101C,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2692,20,11,FMC B&T,,1,C,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-XPL-1100A,,XPL,,,Xpress Mfld Pig Launcher,,,,FMC Instrument Bubble,2696,20,11,With assembly,,0,A,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-XPL-1103?,,XPL,,,Xpress Mfld Pig Launcher,,,,FMC Instrument Bubble,2709,20,11,With assembly,,3,,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,?-X1FV-???,,X1FV,,,Undefined Instrument,,,,FMC Instrument Bubble,2789,,,With assembly,,,,NA,NA,NA,,NONE,NONE,4,2
+PID-111,20-XPL-1100B,,XPL,,,Xpress Mfld Pig Launcher,,,,FMC Instrument Bubble,2852,20,11,With assembly,,0,B,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-X1FV-1102A,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2854,20,11,FMC B&T,,2,A,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-X1FV-1103C,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2871,20,11,FMC B&T,,3,C,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-X1FV-1101B,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2875,20,11,FMC B&T,,1,B,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-111,20-X1FV-1103B,,X1FV,,,Xpress Mfld Crossover Valve w/ 1 Pig Stop,,,,FMC Instrument Bubble,2912,20,11,FMC B&T,,3,B,NA,NA,NA,I/O,NONE,NONE,4,2
+PID-121,20-ZIS-2106J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,2932,20,21,With assembly,,6,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-XY-2108A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2945,20,21,With assembly,,8,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-ZIS-2108K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,2948,20,21,With assembly,,8,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-XY-2108P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,2960,20,21,With assembly,,8,P,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-XY-2106E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2962,20,21,With assembly,,6,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-ZSC-2106A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,2965,20,21,With assembly,,6,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSO-2107H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,2968,20,21,With assembly,,7,H,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSC/O-2107E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,2971,20,21,,,7,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-121,20-XY-2107A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,2987,20,21,With assembly,,7,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-ZSO-2108H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,3013,20,21,With assembly,,8,H,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSC-2108A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3040,20,21,With assembly,,8,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSO-2106H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,3091,20,21,With assembly,,6,H,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-XY-2106P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,3103,20,21,With assembly,,6,P,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-XY-2106A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3114,20,21,With assembly,,6,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-XY-2106F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3170,20,21,With assembly,,6,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-ZSC-2107G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3180,20,21,With assembly,,7,G,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSC-2108G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3187,20,21,With assembly,,8,G,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSC/O-2106E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3193,20,21,,,6,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-121,20-ZSC/O-2108E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3243,20,21,,,8,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-121,20-ZSC/O-2107F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3245,20,21,,,7,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-121,20-XY-2108E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3293,20,21,With assembly,,8,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-ZSC-2107A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3303,20,21,With assembly,,7,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZIS-2108J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3318,20,21,With assembly,,8,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZIS-2107K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3325,20,21,With assembly,,7,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-XY-2107P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,3334,20,21,With assembly,,7,P,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-ZIS-2106K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3362,20,21,With assembly,,6,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-XY-2107E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3393,20,21,With assembly,,7,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-XY-2108F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3449,20,21,With assembly,,8,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-121,20-ZIS-2107J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3451,20,21,With assembly,,7,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSC/O-2108F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3453,20,21,,,8,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-121,20-ZSC-2106G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3462,20,21,With assembly,,6,G,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-121,20-ZSC/O-2106F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3471,20,21,,,6,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-121,20-XY-2107F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3485,20,21,With assembly,,7,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-XY-2105A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3521,20,21,With assembly,,5,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-XY-2105E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3527,20,21,With assembly,,5,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSO-2104H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,3548,20,21,With assembly,,4,H,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-XY-2105P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,3553,20,21,With assembly,,5,P,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-XY-2104E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3602,20,21,With assembly,,4,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-XY-2103E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3621,20,21,With assembly,,3,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSC-2105G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3672,20,21,With assembly,,5,G,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-XY-2104A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3674,20,21,With assembly,,4,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSC-2103G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3679,20,21,With assembly,,3,G,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-XY-2104F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3724,20,21,With assembly,,4,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSC-2104G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3737,20,21,With assembly,,4,G,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-XY-2103F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3746,20,21,With assembly,,3,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSC/O-2103F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3749,20,21,,,3,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-122,20-ZIS-2104K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3751,20,21,With assembly,,4,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZSO-2105H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,3787,20,21,With assembly,,5,H,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZSC-2104A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3795,20,21,With assembly,,4,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZSC/O-2105E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3819,20,21,,,5,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-122,20-XY-2105F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3827,20,21,With assembly,,5,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSC/O-2104E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3832,20,21,,,4,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-122,20-XY-2103A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,3834,20,21,With assembly,,3,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZIS-2103J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3871,20,21,With assembly,,3,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZSO-2103H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,3875,20,21,With assembly,,3,H,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZIS-2103K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3887,20,21,With assembly,,3,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-XY-2104P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,3892,20,21,With assembly,,4,P,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSC/O-2105F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3894,20,21,,,5,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-122,20-ZIS-2105K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3909,20,21,With assembly,,5,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-XY-2103P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,3957,20,21,With assembly,,3,P,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-122,20-ZSC-2105A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,3983,20,21,With assembly,,5,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZIS-2104J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,3985,20,21,With assembly,,4,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZSC/O-2104F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,3988,20,21,,,4,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-122,20-ZSC-2103A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4002,20,21,With assembly,,3,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-122,20-ZSC/O-2103E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4004,20,21,,,3,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-122,20-ZIS-2105J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4010,20,21,With assembly,,5,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-ZSC/O-2101E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4102,20,21,,,1,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-123,20-XY-2102P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,4153,20,21,With assembly,,2,P,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZSO-2102H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,4160,20,21,With assembly,,2,H,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-XY-2102E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4167,20,21,With assembly,,2,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-XY-2101D,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4182,20,21,With assembly,,1,D,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZSC-2101C,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4193,20,21,With assembly,,1,C,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-XY-2101F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4232,20,21,With assembly,,1,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZSC/O-2102F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4251,20,21,,,2,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-123,20-XY-2101C,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4274,20,21,With assembly,,1,C,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZIS-2102K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4276,20,21,With assembly,,2,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-ZSC-2101B,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4283,20,21,With assembly,,1,B,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-XY-2102F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4285,20,21,With assembly,,2,F,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZIS-2101K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4332,20,21,With assembly,,1,K,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-XY-2101E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4336,20,21,With assembly,,1,E,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZSC/O-2101F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4371,20,21,,,1,F,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-123,20-XY-7748.,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4405,20,77,With assembly,New,48,.,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZSC/O-2102E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4464,20,21,,,2,E,NA,NA,NA,DIASI,DIASI,NONE,5,3
+PID-123,20-XY-2102A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4473,20,21,With assembly,,2,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZSC-2102A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4479,20,21,With assembly,,2,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-ZSC-2101A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4483,20,21,With assembly,,1,A,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-XY-2101A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4489,20,21,With assembly,,1,A,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-123,20-ZSC-2101D,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4491,20,21,With assembly,,1,D,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-ZSC-7748.,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4506,20,77,With assembly,New,48,.,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-ZSC-2102G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4524,20,21,With assembly,,2,G,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-ZIS-2102J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4537,20,21,With assembly,,2,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-ZIS-2101J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4556,20,21,With assembly,,1,J,NA,NA,NA,DIASI,NONE,NONE,5,3
+PID-123,20-XY-2101B,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4566,20,21,With assembly,,1,B,NA,NA,NA,DOASI,NONE,NONE,5,3
+PID-131,20-ZSO-3107H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,4583,20,31,With assembly,,7,H,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZIS-3106J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4593,20,31,With assembly,,6,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-XY-3106P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,4619,20,31,With assembly,,6,P,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZSC/O-3107E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4635,20,31,,,7,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-131,20-ZIS-3107K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4639,20,31,With assembly,,7,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZSC-3106G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4684,20,31,With assembly,,6,G,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-XY-3106A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4739,20,31,With assembly,,6,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZSC/O-3106E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4747,20,31,,,6,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-131,20-XY-3107P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,4749,20,31,With assembly,,7,P,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZSC/O-3107F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4761,20,31,,,7,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-131,20-ZSC-3107A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4765,20,31,With assembly,,7,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-XY-3106E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4770,20,31,With assembly,,6,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZSO-3106H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,4780,20,31,With assembly,,6,H,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZSC/O-3108F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,4811,20,31,,,8,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-131,20-ZIS-3108J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4813,20,31,With assembly,,8,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZIS-3108K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,4838,20,31,With assembly,,8,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-XY-3107F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4845,20,31,With assembly,,7,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-XY-3108F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4850,20,31,With assembly,,8,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZSC-3107G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4858,20,31,With assembly,,7,G,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZSC-3106A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4863,20,31,With assembly,,6,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZSC-3108G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4920,20,31,With assembly,,8,G,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZSC-3108A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,4932,20,31,With assembly,,8,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-XY-3108P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,4937,20,31,With assembly,,8,P,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-XY-3107A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4941,20,31,With assembly,,7,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-XY-3108A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,4959,20,31,With assembly,,8,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZSC/O-3106F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5028,20,31,,,6,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-131,20-XY-3106F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5045,20,31,With assembly,,6,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZIS-3106K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5063,20,31,With assembly,,6,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-ZSC/O-3108E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5066,20,31,,,8,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-131,20-ZSO-3108H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,5087,20,31,With assembly,,8,H,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-XY-3107E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5122,20,31,With assembly,,7,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-131,20-ZIS-3107J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5124,20,31,With assembly,,7,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-131,20-XY-3108E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5145,20,31,With assembly,,8,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSC-3103A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5164,20,31,With assembly,,3,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3105P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,5172,20,31,With assembly,,5,P,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSC/O-3104F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5175,20,31,,,4,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-132,20-XY-3104P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,5178,20,31,With assembly,,4,P,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSO-3104H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,5218,20,31,With assembly,,4,H,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-ZIS-3103J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5221,20,31,With assembly,,3,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-ZSO-3105H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,5246,20,31,With assembly,,5,H,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-ZSC/O-3105F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5262,20,31,,,5,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-132,20-ZSC/O-3103F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5267,20,31,,,3,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-132,20-ZSC-3104G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5275,20,31,With assembly,,4,G,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3104F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5278,20,31,With assembly,,4,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-XY-3103P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,5280,20,31,With assembly,,3,P,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSC-3105G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5314,20,31,With assembly,,5,G,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3105F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5317,20,31,With assembly,,5,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSC/O-3104E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5320,20,31,,,4,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-132,20-ZSO-3103H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,5329,20,31,With assembly,,3,H,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-ZIS-3103K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5347,20,31,With assembly,,3,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3103E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5445,20,31,With assembly,,3,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-XY-3103F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5458,20,31,With assembly,,3,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSC-3105A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5488,20,31,With assembly,,5,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3104E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5523,20,31,With assembly,,4,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSC/O-3103E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5527,20,31,,,3,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-132,20-ZSC-3104A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5539,20,31,With assembly,,4,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3105A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5555,20,31,With assembly,,5,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-XY-3105E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5595,20,31,With assembly,,5,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZIS-3104K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5606,20,31,With assembly,,4,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3103A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5618,20,31,With assembly,,3,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZIS-3104J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5628,20,31,With assembly,,4,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-ZIS-3105J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5657,20,31,With assembly,,5,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-ZIS-3105K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5659,20,31,With assembly,,5,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-ZSC-3103G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5669,20,31,With assembly,,3,G,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-132,20-XY-3104A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5689,20,31,With assembly,,4,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-132,20-ZSC/O-3105E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5716,20,31,,,5,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-133,20-ZIS-3101J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5726,20,31,With assembly,,1,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZIS-3102K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5732,20,31,With assembly,,2,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-XY-3101D,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5740,20,31,With assembly,,1,D,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-XY-3101C,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5787,20,31,With assembly,,1,C,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-ZIS-3102J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5789,20,31,With assembly,,2,J,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZIS-3101K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,5795,20,31,With assembly,,1,K,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZSC-3102A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5818,20,31,With assembly,,2,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZSC/O-3101F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5828,20,31,,,1,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-133,20-ZSC/O-3102E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,5841,20,31,,,2,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-133,20-XY-3102E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5851,20,31,With assembly,,2,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-ZSC-3101A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5856,20,31,With assembly,,1,A,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-XY-3101E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5876,20,31,With assembly,,1,E,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-ZSC-3101D,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5885,20,31,With assembly,,1,D,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZSC-3101B,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5958,20,31,With assembly,,1,B,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-XY-3101A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,5990,20,31,With assembly,,1,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-ZSC-7749.,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,5994,20,77,With assembly,New,49,.,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZSC-3102G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6003,20,31,With assembly,,2,G,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-XY-3102F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6014,20,31,With assembly,,2,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-XY-3102P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,6061,20,31,With assembly,,2,P,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-XY-3102A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6066,20,31,With assembly,,2,A,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-XY-7749.,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6072,20,77,With assembly,New,49,.,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-XY-3101B,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6075,20,31,With assembly,,1,B,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-133,20-ZSC/O-3102F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6101,20,31,,,2,F,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-133,20-ZSC-3101C,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6112,20,31,With assembly,,1,C,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZSO-3102H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,6136,20,31,With assembly,,2,H,NA,NA,NA,DIASI,NONE,NONE,6,4
+PID-133,20-ZSC/O-3101E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6182,20,31,,,1,E,NA,NA,NA,DIASI,DIASI,NONE,6,4
+PID-133,20-XY-3101F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6194,20,31,With assembly,,1,F,NA,NA,NA,DOASI,NONE,NONE,6,4
+PID-141,20-ZSC/O-4106F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6215,20,41,,,6,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-141,20-ZSO-4108H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,6217,20,41,With assembly,,8,H,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZSC/O-4108F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6222,20,41,,,8,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-141,20-XY-4107A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6273,20,41,With assembly,,7,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZSC/O-4107E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6277,20,41,,,7,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-141,20-ZSO-4107H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,6302,20,41,With assembly,,7,H,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZSC-4108A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6310,20,41,With assembly,,8,A,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-XY-4107P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,6337,20,41,With assembly,,7,P,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZSC-4108G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6349,20,41,With assembly,,8,G,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-XY-4106A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6415,20,41,With assembly,,6,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZSC-4107G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6425,20,41,With assembly,,7,G,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-XY-4108F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6437,20,41,With assembly,,8,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZSC-4106G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6442,20,41,With assembly,,6,G,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-XY-4107E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6482,20,41,With assembly,,7,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZSC/O-4107F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6486,20,41,,,7,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-141,20-XY-4108A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6498,20,41,With assembly,,8,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZIS-4108J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6503,20,41,With assembly,,8,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZIS-4106J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6528,20,41,With assembly,,6,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZSO-4106H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,6536,20,41,With assembly,,6,H,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-XY-4106F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6538,20,41,With assembly,,6,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZSC/O-4106E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6591,20,41,,,6,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-141,20-ZSC-4106A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6615,20,41,With assembly,,6,A,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-XY-4106E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6617,20,41,With assembly,,6,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-ZSC-4107A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6638,20,41,With assembly,,7,A,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZIS-4107K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6667,20,41,With assembly,,7,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZIS-4107J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6673,20,41,With assembly,,7,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZIS-4108K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6692,20,41,With assembly,,8,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-ZSC/O-4108E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6704,20,41,,,8,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-141,20-ZIS-4106K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6707,20,41,With assembly,,6,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-141,20-XY-4108E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6709,20,41,With assembly,,8,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-XY-4108P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,6723,20,41,With assembly,,8,P,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-XY-4107F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6729,20,41,With assembly,,7,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-141,20-XY-4106P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,6780,20,41,With assembly,,6,P,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSC/O-4105F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6796,20,41,,,5,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-142,20-ZIS-4103K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6851,20,41,With assembly,,3,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-ZSO-4105H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,6877,20,41,With assembly,,5,H,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-XY-4104E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6892,20,41,With assembly,,4,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSC-4104G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6911,20,41,With assembly,,4,G,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-ZIS-4105J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6934,20,41,With assembly,,5,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-ZSC/O-4104F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6939,20,41,,,4,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-142,20-ZSC/O-4105E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,6945,20,41,,,5,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-142,20-ZSC-4105G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6948,20,41,With assembly,,5,G,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-XY-4104F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6960,20,41,With assembly,,4,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-XY-4105E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,6964,20,41,With assembly,,5,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZIS-4104K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,6967,20,41,With assembly,,4,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-XY-4104P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,6972,20,41,With assembly,,4,P,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSC-4104A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,6980,20,41,With assembly,,4,A,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-XY-4103E,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,7014,20,41,With assembly,,3,E,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-XY-4104A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,7032,20,41,With assembly,,4,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSO-4103H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,7035,20,41,With assembly,,3,H,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-ZIS-4104J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,7077,20,41,With assembly,,4,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-XY-4103A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,7088,20,41,With assembly,,3,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-XY-4105P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,7112,20,41,With assembly,,5,P,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSC-4103A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,7120,20,41,With assembly,,3,A,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-XY-4105A,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,7122,20,41,With assembly,,5,A,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-XY-4103P,,XY,,,4-Way Solenoid Valve,,,,General Instrument Symbol,7158,20,41,With assembly,,3,P,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSC/O-4103E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,7179,20,41,,,3,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-142,20-XY-4103F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,7184,20,41,With assembly,,3,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSO-4104H,,ZSO,,,Open Detection,,,,FMC Instrument Bubble,7202,20,41,With assembly,,4,H,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-XY-4105F,,XY,,,3-Way Solenoid Valve,,,,General Instrument Symbol,7218,20,41,With assembly,,5,F,NA,NA,NA,DOASI,NONE,NONE,0,5
+PID-142,20-ZSC/O-4103F,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,7224,20,41,,,3,F,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-142,20-ZSC-4103G,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,7234,20,41,With assembly,,3,G,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-ZIS-4105K,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,7248,20,41,With assembly,,5,K,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-ZSC/O-4104E,,ZSC/O,,,Closed and Open Detection,,,,FMC Instrument Bubble,7296,20,41,,,4,E,NA,NA,NA,DIASI,DIASI,NONE,0,5
+PID-142,20-ZIS-4103J,,ZIS,,,Pig Sensor,,,,FMC Instrument Bubble,7313,20,41,With assembly,,3,J,NA,NA,NA,DIASI,NONE,NONE,0,5
+PID-142,20-ZSC-4105A,,ZSC,,,Closed Detection,,,,FMC Instrument Bubble,7339,20,41,With assembly,,5,A,NA,NA,NA,DIASI,NONE,NONE,0,5
