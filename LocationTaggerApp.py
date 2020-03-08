@@ -114,7 +114,10 @@ class TestApp(Frame):
             import os 
             os.system('python LearnActionScript.py')
             print("done")
-            self.table.model.load("learnedmodel.pickle")
+            try:
+                self.table.model.load("learnedmodel.pickle")
+            except IOError:
+                print("Couldn't find learnedmodel.pickle")
             self.table.model.save("temp_model.pickle")
             self.table.model.moveColumn(self.table.model.df.columns.get_loc("ASIGateway_label"),1)
             self.table.redrawVisible()

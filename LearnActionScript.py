@@ -48,7 +48,7 @@ from sklearn.preprocessing import StandardScaler
 
 
 X = StandardScaler().fit_transform(X)
-db = DBSCAN(eps=0.03, min_samples=2).fit(X)
+db = DBSCAN(eps=0.1, min_samples=2).fit(X)
 core_samples_mask = np.zeros_like(db.labels_, dtype=bool)
 core_samples_mask[db.core_sample_indices_] = True
 labels = db.labels_
@@ -123,7 +123,7 @@ from sklearn.preprocessing import StandardScaler
 
 
 X_normalized = StandardScaler().fit_transform(X)
-my_labels = np.array(MyDBSCAN(X_normalized, eps=.4, MinPts=20, MaxPts = 100))
+my_labels = np.array(MyDBSCAN(X_normalized, eps=.2, MinPts=20, MaxPts = 100))
 core_samples_mask = np.zeros_like(my_labels, dtype=bool)
 core_samples_mask[np.array(range(0,len(my_labels)))] = True
 labels = my_labels
