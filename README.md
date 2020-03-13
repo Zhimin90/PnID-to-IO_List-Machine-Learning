@@ -2,6 +2,16 @@
 
 ### Require pre-install pandastable
 
+For Conda
+
+conda install -c dmnfarrell pandastable
+or
+conda install -c https://conda.anaconda.org/dmnfarrell pandastable
+
+For PIP
+
+pip install pandastable
+
 What Does an Instrumentation Engineer do?
 An instrumentation engineer could be responsible for any part of the lifecycle of a control process. They can be tasked with planning, design, development, and installation of a new process. They could also monitor, maintain and manage teams responsible for control systems already in place.
 While the specific tasks of any given instrumentation engineering job will depend upon the control systems involved and the end product being created, tasks might include:
@@ -49,3 +59,5 @@ Once all instrument tags, labeled and unlabeled, has been assigned to a location
 
 The application is written in Python 3. The user interface is based on Tkinter and pandastable. User will be able to import the P&ID output as a csv file into pandastable and view it as a dataframe. User can drop a pin in a plot plan drawing when CTRL+LeftMouseClick the instrument tag RLocation cell. This will allow the user to enter a relative location reference the particular instrument tag which a click of a button. Once the user tagged a desired amount, greater than 30, of instrument locations, the user can CTRL+L to trigger the learning script, LearnActionScript.py, to process the temp_model.pickle file which is the current dataframe being displayed. The learning script is another python script that process the pickle file and writes into learnedmodel.pickle with the assigned gateway label. This pickle file is automatically read into the display when the learning script finishes executing.
 To run the program, execute Run.bat in the same directory as LocationTaggerApp.py
+
+https://youtu.be/2yl-cxlaDyY Video Demonstration
