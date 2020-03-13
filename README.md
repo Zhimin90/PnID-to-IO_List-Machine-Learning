@@ -1,14 +1,6 @@
-# PnID-to-IO_List-Machine-Learning
+﻿# PnID-to-IO_List-Machine-Learning
 
 ### Require pre-install pandastable
-
-For Conda
-
-conda install -c dmnfarrell pandastable
-or
-conda install -c https://conda.anaconda.org/dmnfarrell pandastable
-
-For PIP
 
 pip install pandastable
 
