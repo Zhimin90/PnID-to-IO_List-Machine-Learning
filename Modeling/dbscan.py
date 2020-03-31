@@ -30,6 +30,7 @@ def MyDBSCAN(D, eps, MinPts, MaxPts):
     #     0 - Means the point hasn't been considered yet.
     # Initially all labels are 0.    
     labels = [0]*len(D)
+    label_i = [-1]*len(D)
 
     # C is the ID of the current cluster.    
     C = 0
@@ -84,7 +85,7 @@ def MyDBSCAN(D, eps, MinPts, MaxPts):
                 C += 1
                 clusterDict[C] = 1
             #growCluster returns unprocessed NeighborPts back for new cluster assignment
-            append_list = growCluster(clusterDict, D, labels, P, NeighborPts, C, eps, MinPts, MaxPts)
+            append_list = growCluster(clusterDict, D, labels, label_i, P, NeighborPts, C, eps, MinPts, MaxPts)
             setNeighborPts = set(NeighborPts)
             for NeighborPt in append_list:
                 if NeighborPt in setNeighborPts:
@@ -92,10 +93,10 @@ def MyDBSCAN(D, eps, MinPts, MaxPts):
                 else:
                     NeighborPts += [NeighborPt]
     # All data has been clustered!
-    return labels
+    return labels, label_i
 
 
-def growCluster(clusterDict, D, labels, P, NeighborPts, C, eps, MinPts, MaxPts):
+def growCluster(clusterDict, D, labels,label_i, P, NeighborPts, C, eps, MinPts, MaxPts):
     """
     Grow a new cluster with label `C` from the seed point `P`.
     
@@ -116,6 +117,8 @@ def growCluster(clusterDict, D, labels, P, NeighborPts, C, eps, MinPts, MaxPts):
     print("Growing Cluster")
     #print("Current Dictionary is: "+ str(clusterDict))
     labels[P] = C
+    label_i[P] = max(label_i) + 1
+    
     if C in clusterDict.keys():
         clusterDict[C] += 1
     else:
@@ -139,11 +142,13 @@ def growCluster(clusterDict, D, labels, P, NeighborPts, C, eps, MinPts, MaxPts):
         # make it a leaf point of cluster C and move on.
         if labels[Pn] == -1:
            labels[Pn] = C
+           label_i[Pn] = max(label_i) + 1
         
         # Otherwise, if Pn isn't already claimed, claim it as part of C.
         elif labels[Pn] == 0:
             # Add Pn to cluster C (Assign cluster label C).
             labels[Pn] = C
+            label_i[Pn] = max(label_i) + 1
             if C in clusterDict.keys():
                 clusterDict[C] += 1
             else:
