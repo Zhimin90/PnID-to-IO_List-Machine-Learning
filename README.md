@@ -1,8 +1,8 @@
 ﻿# PnID-to-IO_List-Machine-Learning
 
-### Require pre-install pandastable
+### Require pre-install pandastable, sklearn
 
-pip install pandastable
+pip install pandastable sklearn
 
 What Does an Instrumentation Engineer do?
 An instrumentation engineer could be responsible for any part of the lifecycle of a control process. They can be tasked with planning, design, development, and installation of a new process. They could also monitor, maintain and manage teams responsible for control systems already in place.
