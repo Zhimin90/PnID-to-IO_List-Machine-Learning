@@ -7,18 +7,7 @@ Created on Sat Feb 22 19:33:18 2020
 from tkinter import *
 from pandastable import Table, TableModel
 import numpy as np
-#import os
-#assuming parent is the frame in which you want to place the table
 
-#root = Tk()
-#frame = Frame(root)
-#frame.pack()
-##root.mainloop()
-#
-#pt = Table(frame)
-#pt.show()
-#pt.importCSV('test.csv')
-#pt.mainloop()
 
 class popupWindow(object):
     
@@ -52,7 +41,7 @@ class popupWindow(object):
         self.value=self.location
         self.top.destroy()
 
-class TestApp(Frame):
+class LocationTaggerApp(Frame):
         
         """Basic test frame for the table"""
         def __init__(self, parent=None):
@@ -78,6 +67,7 @@ class TestApp(Frame):
             pt.model.moveColumn(pt.model.df.columns.get_loc(self.locColName),1)
             pt.bind('<Control-Button-1>', self.leftClicked)
             pt.bind('<Control-l>', self.learnModel)
+            pt.bind('<Control-o>', self.writeCSV)
             pt.show()
             return
         
@@ -122,6 +112,22 @@ class TestApp(Frame):
             self.table.model.moveColumn(self.table.model.df.columns.get_loc("ASIGateway_label"),1)
             self.table.redrawVisible()
 
-app = TestApp()
+        def writeCSV(self, event):
+            print("Writing Model to IO_List in CSV format")
+            #self.table.model.save("temp_model.pickle")
+            import os
+            os.system('python generateIOList.py')
+            print("done")
+            #try:
+                #self.table.model.load("learnedmodel.pickle")
+            #except IOError:
+                #print("Couldn't find learnedmodel.pickle")
+            #self.table.model.save("temp_model.pickle")
+            #self.table.model.moveColumn(
+                #self.table.model.df.columns.get_loc("ASIGateway_label"), 1)
+            self.table.redrawVisible()
+
+
+app = LocationTaggerApp()
 #launch the app
 app.mainloop()
